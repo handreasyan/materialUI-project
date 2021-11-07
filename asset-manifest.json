@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/handreasyan/materialUI-project/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/handreasyan/materialUI-project/static/js/main.be021033.chunk.js",
+    "main.js.map": "/handreasyan/materialUI-project/static/js/main.be021033.chunk.js.map",
+    "runtime-main.js": "/handreasyan/materialUI-project/static/js/runtime-main.decd4aee.js",
+    "runtime-main.js.map": "/handreasyan/materialUI-project/static/js/runtime-main.decd4aee.js.map",
+    "static/js/2.ab9ebdff.chunk.js": "/handreasyan/materialUI-project/static/js/2.ab9ebdff.chunk.js",
+    "static/js/2.ab9ebdff.chunk.js.map": "/handreasyan/materialUI-project/static/js/2.ab9ebdff.chunk.js.map",
+    "index.html": "/handreasyan/materialUI-project/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/handreasyan/materialUI-project/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.ab9ebdff.chunk.js.LICENSE.txt": "/handreasyan/materialUI-project/static/js/2.ab9ebdff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.decd4aee.js",
+    "static/js/2.ab9ebdff.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.be021033.chunk.js"
+  ]
+}
